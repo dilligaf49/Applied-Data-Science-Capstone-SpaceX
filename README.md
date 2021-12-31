@@ -26,4 +26,13 @@ https://github.com/dilligaf49/Applied-Data-Science-Capstone-SpaceX/blob/master/I
 Machine Learning Prediction Lab.ipynb
 https://github.com/dilligaf49/Applied-Data-Science-Capstone-SpaceX/blob/master/Machine%20Learning%20Prediction%20Lab.ipynb
 
+Spacex.csv
+
+spacex_web_scraped.csv
+
+dataset_part_1.csv
+
+dataset_part_2.csv
+
+dataset_part_3.csv
 
